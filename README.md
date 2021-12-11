@@ -28,7 +28,7 @@ Crowdwork is a blockchain based team building tool for DAO’s to internally sou
 
 
 ## VIDEO LINK → https://vimeo.com/655592801
-## WEBSITE LINK → Crowdwork.xyz
+## WEBSITE LINK → https://www.crowdwork.xyz/
 ## CONTACT INFO → Shane Grady → Shane@gradycameronco.com
 
 # THANK YOU!!
